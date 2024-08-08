@@ -1,0 +1,15 @@
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\bin\Debug\net7.0\KararYapilari.exe
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\bin\Debug\net7.0\KararYapilari.deps.json
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\bin\Debug\net7.0\KararYapilari.runtimeconfig.json
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\bin\Debug\net7.0\KararYapilari.dll
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\bin\Debug\net7.0\KararYapilari.pdb
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.csproj.AssemblyReference.cache
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.AssemblyInfoInputs.cache
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.AssemblyInfo.cs
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.dll
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\refint\KararYapilari.dll
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.pdb
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\KararYapilari.genruntimeconfig.cache
+C:\Users\Emine Gödek\source\repos\Wissen2024\Fundamental\KararYapilari\obj\Debug\net7.0\ref\KararYapilari.dll

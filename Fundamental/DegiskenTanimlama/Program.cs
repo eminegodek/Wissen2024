@@ -31,19 +31,51 @@
             //Console.WriteLine("Hello,World!"); 
             #endregion
             #region DEgisken Uzunluklari
-            Console.WriteLine("byte bveri tipi");
+            Console.WriteLine("byte bveri tipi ");
             Console.WriteLine(byte.MinValue);
             Console.WriteLine(byte.MaxValue);
 
-            Console.WriteLine("short bveri tipi");
+            Console.WriteLine("short veri tipi ");
             Console.WriteLine(short.MinValue);
             Console.WriteLine(short.MaxValue);
 
-            Console.WriteLine("ushort bveri tipi");
+            Console.WriteLine("ushort veri tipi ");
             Console.WriteLine(ushort.MinValue);
             Console.WriteLine(ushort.MaxValue);
 
+            Console.WriteLine("ushort veri tipi ");
+            Console.WriteLine(UInt16.MinValue);
+            Console.WriteLine(UInt16.MaxValue);
+            Console.WriteLine("int veri tipi ");
+            Console.WriteLine(Int32.MinValue);
+            Console.WriteLine(Int32.MaxValue);
+            Console.WriteLine(int.MinValue);
+            Console.WriteLine(int.MaxValue);
 
+
+            Console.WriteLine("uint veri tipi ");
+            Console.WriteLine(UInt32.MinValue);
+            Console.WriteLine(uint.MaxValue);
+
+            Console.WriteLine("long veri tipi ");
+            Console.WriteLine(Int64.MinValue);
+            Console.WriteLine(long.MaxValue);
+            Console.WriteLine("ulong veri tipi ");
+            Console.WriteLine(UInt64.MinValue);
+            Console.WriteLine(ulong.MaxValue);
+
+            #region Kusuratli sayilar
+            Console.WriteLine("küsüratli sayilar ");
+            Console.WriteLine("float veri tipi ");
+            Console.WriteLine(float.MinValue);
+            Console.WriteLine(Single.MaxValue);
+            Console.WriteLine("double veri tipi ");
+            Console.WriteLine(double.MinValue);
+            Console.WriteLine(Double.MaxValue);
+
+            Console.WriteLine("decimal  veri tipi ");
+            Console.WriteLine(decimal.MinValue);
+            Console.WriteLine(Decimal.MaxValue);
 
             #endregion
         }
